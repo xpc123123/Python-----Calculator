@@ -40,16 +40,16 @@ while True:
  	          print(num1, "+", num2, "=", add(num1, num2))
         elif choice == '2':
             # Collaborator2 enter Code For SUBTRACT here
-	          # Include your Name/ID/Date in comments
-            #
+	          # Include your Name/ID/Date in comments       Gongjiawei/20114301/2025.3.28
+                  print(num1,"-",num2, "=", subtract(num1,num2)) 
         elif choice == '3':
             # Collaborator3 enter Code For MULTIPLY here
-	          # Include your Name/ID/Date in comments
-            #
+	          # Include your Name/ID/Date in comments    Gongjiawei/20114301/2025.3.28
+                   print(num1,"*",num2, "=", multiply(num1,num2))
         elif choice == '4':
             # Collaborator4 enter Code For DIVIDE here
-	          # Include your Name/ID/Date in comments
-            # 
+	          # Include your Name/ID/Date in comments  Gongjiawei/20114301/2025.3.28
+                   print(num1,"/",num2, "=", divide(num1,num2))
           
         # check if user wants another calculation
         # break the while loop if answer is no
